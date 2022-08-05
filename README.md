@@ -10,7 +10,7 @@ Fala meu pvo, boa noite, eu achei um canal com otímos locais para aprender esse
 
 Concluído.
 
-## Link para o projeto:
+## Link para o projeto: https://real-estate-starter.vercel.app
 
 ## tecnologias.
 Feito com framework react e usando a linguagem java script, e tailwind nesse projeto.
